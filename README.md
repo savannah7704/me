@@ -1,6 +1,6 @@
 # Introductions (2025)
-Getting to know each other introductory website by Savannah Stumpf
-Credits to Eric Pogue and ChatGPT for the template
+Getting to know each other introductory website by Savannah Stumpf. 
+Credits to Eric Pogue and ChatGPT for the template. 
 Eric Pogue and ChatGPT created this repository as a template for an "Introductions" website.
 
 Additional GitHub Page information can be found at [GitHub Pages](https://pages.github.com/). Also, there is a 5-minute 
